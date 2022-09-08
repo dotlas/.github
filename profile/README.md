@@ -1,1 +1,1 @@
-![](assets/banner.png)
+![](https://dotlas-website.s3.eu-west-1.amazonaws.com/images/github/banner.png)
